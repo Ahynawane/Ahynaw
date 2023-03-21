@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    font-family: 'Lobster', cursive;
+    background-color: rgba(191, 143, 253, 0.974);
+}
+button{
+    background-color: rgb(134, 64, 205);
+    width: 100px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border: 200px;
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+img{
+    width: 50px;
+    
+}
+
+button:hover{ /*coloca uma cor escura quando o cursor passa por cima*/
+    background-color: rgb(80, 10, 145);
+}
+
+button:active{
+    transform: scale(1.1); /*aumenta o tamanho do botão quando clicado*/
+}
+
+.linha-form input{
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px white solid;
+    display: block;
+    width: 50%;
+    padding: 15px 0;
+    color: white;
+}
+
+form{
+    margin-top: 20px;
+}

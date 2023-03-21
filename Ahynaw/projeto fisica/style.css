@@ -1,0 +1,33 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    font-size: 20px;
+}
+
+.marcador {
+    background-color: pink;
+    color: red;
+    padding: 5px;
+}
+
+img {
+    width: 500px;
+}
+
+button{
+    padding: 10px;
+    background-color: pink;
+    color: purple;
+    border-radius: 70px;
+    border-color: purple;
+}
+
+button:hover{
+    background-color: palevioletred;
+}

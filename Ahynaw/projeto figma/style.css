@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.titulo__destaque{
+    color: rgb(0, 140, 255);
+}
+
+h1{
+    color:white ;
+    
+}
+
+h4{
+    color: white;
+    float: left;
+}
+.right{
+    float: right;
+}
+
+
+.down{
+    align-content: flex-end;
+}
+
+button{
+    background-color: rgb(0, 128, 255);
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+}
+
+button:hover{ /*coloca uma cor escura quando o cursor passa por cima*/
+    background-color: #003f8c;
+}

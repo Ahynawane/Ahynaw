@@ -1,0 +1,23 @@
+body{
+    background-color:#ffcea9 ;
+}
+
+h2{
+    color: brown;
+}
+img{
+    width: 300px;
+    float: right;
+}
+h3{
+    color: brown;
+}
+
+.sublinhado{
+    text-decoration-line: underline;
+
+}
+
+.egito{
+    color: gray;
+}
